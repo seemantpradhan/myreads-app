@@ -17,6 +17,13 @@ To get started developing right away:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
+
+To publish on github 
+
+* install git using command - `brew install git` or from package directly.
+* follow the instructions - https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
+
+
 ## What You're Getting
 ```bash
 ├── CONTRIBUTING.md
